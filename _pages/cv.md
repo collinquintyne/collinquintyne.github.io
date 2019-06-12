@@ -27,6 +27,12 @@ Work experience
 * Summer 2015: Signal Processing Algorithm Developer (co-op)
   * *ON Semiconductor, Waterloo, Ontario*
 
+* Fall 2014: Teaching Assistant (Fundamentals of Programming)
+  * *Faculty of Engineering, University of Waterloo*
+
+* Winter 2014: Research Assistant (co-op)
+  * *Centre for Intelligent Antenna and Radio Systems, University of Waterloo*
+
 Skills
 ======
 * Python
