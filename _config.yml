@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Collin A. Joseph"
   avatar           : "profile.jpg"
-  bio              : "MEng. Electrical Engineering"
+  bio              : "MEng. Electrical Engineering <br>McGill University"
   location         : "Montreal, QC"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/collin-joseph-4aa20862"
+  linkedin         : "collin-joseph-4aa20862"
   orcid            :
   pinterest        :
   soundcloud       :
