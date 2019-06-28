@@ -12,8 +12,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Resume"
+    url: /files/Collin_A_Joseph_Resume.pdf/
 
   # - title: "Blog"
   #   url: /year-archive/
