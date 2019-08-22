@@ -1,7 +1,6 @@
 ---
 title: "Detecting ASL hand gestures using surface EMG"
 excerpt: "Using electromyograph signals from a human subject's forearm, some colleagues and I attempted to recognize what American Sign Language hand gestures the subject was performing."
-date: 2019-06-28
 collection: projects
 ---
 
