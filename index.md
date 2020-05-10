@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Collin Joseph
 ---
 
 ## About Me
