@@ -12,5 +12,7 @@ plainwhite:
     linkedIn: in/collin-quintyne/ # format: locale/username
 
   navigation:
+     - title: Home
+      url: "/index.md"
      - title: Resume
-      url: "/resume"
+      url: "/files/CollinAJosephResume.pdf"
