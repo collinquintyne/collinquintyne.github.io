@@ -10,9 +10,3 @@ plainwhite:
   social_links:
     github: collinquintyne
     linkedIn: in/collin-quintyne/ # format: locale/username
-
-  navigation:
-     - title: Home
-      url: "/index.md"
-     - title: Resume
-      url: "/files/CollinAJosephResume.pdf"
