@@ -1,4 +1,12 @@
 remote_theme: thelehhman/plainwhite-jekyll
 title: Collin Joseph
 description: Collin's personal website.
-logo: /images/01.jpg
+
+plainwhite:
+  name: Collin Joseph
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github: collinquintyne
+    linkedIn: in/collin-quintyne/ # format: locale/username
