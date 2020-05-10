@@ -10,3 +10,7 @@ plainwhite:
   social_links:
     github: collinquintyne
     linkedIn: in/collin-quintyne/ # format: locale/username
+
+  navigation:
+     - title: Resume
+      url: "/resume"
