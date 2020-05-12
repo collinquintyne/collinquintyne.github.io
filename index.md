@@ -16,5 +16,5 @@ I am a graduate of the electrical engineering master's program at McGill Univers
 * Data Science
 
 ## Past Projects
-* [Machine learning for breast cancer detection using RF radar](meng_project.md) (Master's thesis).
+* [Machine learning for breast cancer detection using RF radar](/projects/meng_project.md) (Master's thesis).
 * American sign language gesture recognition using surface electromyography.
