@@ -1,7 +1,6 @@
 ---
 title: "Improving Machine Learning Algorithms for RF Breast Cancer Detection"
 excerpt: "Investigating new feature extraction methods and improving training efficiency for ensemble cost-sensitive SVM algorithm for breast cancer detection using RF radar."
-collection: projects
 ---
 
 # Introduction
