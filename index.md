@@ -17,4 +17,4 @@ I am a tech professional currently seeking software development, machine learnin
 
 ## Past Projects
 * [Machine learning for breast cancer detection using RF radar](/projects/meng_project.md) (Master's thesis research).
-* American sign language gesture recognition using surface electromyography.
+* [American sign language gesture recognition using surface electromyography](https://youtu.be/j9J6hfbg9Yc).
