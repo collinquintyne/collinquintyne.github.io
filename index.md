@@ -12,9 +12,9 @@ I am a tech professional currently seeking software development, machine learnin
 
 ## Other Courses and Qualifications
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N2DNAJY4YJLC), Coursera, 2019
-* [Introduction to SQL] (https://www.kaggle.com/learn/certification/collinquintyne/intro-to-sql), Kaggle, 2020
-* [Introduction to Big Data] (https://coursera.org/share/3d8009bf8fdc31666c79c74574fb1405), Coursera, 2020
-* [Big Data Modeling and Management] (https://coursera.org/share/4ed0fe2df769d1bdeeff884304b1eef6), Coursera, 2020
+* [Introduction to SQL](https://www.kaggle.com/learn/certification/collinquintyne/intro-to-sql), Kaggle, 2020
+* [Introduction to Big Data](https://coursera.org/share/3d8009bf8fdc31666c79c74574fb1405), Coursera, 2020
+* [Big Data Modeling and Management](https://coursera.org/share/4ed0fe2df769d1bdeeff884304b1eef6), Coursera, 2020
 
 ## Past Projects
 * [Machine learning for breast cancer detection using RF radar](/projects/meng_project.md) (Master's thesis research).
