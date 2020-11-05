@@ -4,7 +4,10 @@ title: Collin Joseph
 ---
 
 ## About Me
-I am a tech professional currently seeking software development, machine learning and data science related roles. Most recently, I applied my C++, Python and machine learning knowledge to client-specific projects as part of the production team at [wrnch AI](https://wrnch.ai/). I obtained my master's degree in electrical engineering at McGill University. My master's thesis research was focused on machine learning algorithm development, signal processing and statistical analysis for breast cancer screening using radio waves. I completed my undergraduate degree in electrical engineering at the University of Waterloo, where I graduated with distinction. During my undergrad, a co-op program, I had the opportunity to gain valuable industry experience at ON Semiconductor as a signal processing firmware development intern. I also worked at the University of Waterloo as a teaching assistant and as a research assistant. For additional information please see [my resume](/files/CollinAJosephResume.pdf).
+I am a tech professional currently seeking software development, machine learning and data science related roles. 
+
+In 2019-2020, I applied my C++, Python and machine learning knowledge to client-specific projects as part of the production team at [wrnch AI](https://wrnch.ai/). In 2017-2019,I obtained my master's degree in electrical engineering at McGill University. My master's thesis research was focused on machine learning algorithm development, signal processing and statistical analysis for breast cancer screening using radio waves. In 2012-2017, I completed my undergraduate degree in electrical engineering at the University of Waterloo, where I graduated with distinction. During my undergraduate degree, a co-op program, I had the opportunity to gain valuable industry experience at ON Semiconductor as a signal processing firmware development intern. I also worked at the University of Waterloo as a teaching assistant and as a research assistant. 
+
 
 ## Work Experience
 * Developer, wrnch AI, Nov 2019 - Mar 2020
@@ -14,6 +17,8 @@ I am a tech professional currently seeking software development, machine learnin
 * Signal Processing Algorithm Developer, ON Semiconductor, May 2015 - Aug 2015
 * Teaching Assistant, University of Waterloo, Sep 2014 - Dec 2014
 * Research Assistant, University of Waterloo, May 2014 - Aug 2014
+
+For additional information please see [my resume](/files/CollinAJosephResume.pdf).
 
 ## Education
 * MEng. Electrical Engineering, McGill University, 2019
@@ -29,3 +34,4 @@ I am a tech professional currently seeking software development, machine learnin
 ## Past Projects
 * [Machine learning for breast cancer detection using RF radar](/projects/meng_project.md) (Master's thesis research).
 * [American sign language gesture recognition using surface electromyography](https://youtu.be/j9J6hfbg9Yc).
+
