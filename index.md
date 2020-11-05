@@ -19,7 +19,7 @@ I am a tech professional currently seeking software development, machine learnin
 * MEng. Electrical Engineering, McGill University, 2019
 * BASc. Electrical Engineering, University of Waterloo, 2017
 
-## Other Courses and Qualifications
+## Additional Courses and Certifications
 * [Pandas](https://www.kaggle.com/learn/certification/collinquintyne/pandas), Kaggle, 2020
 * [Introduction to SQL](https://www.kaggle.com/learn/certification/collinquintyne/intro-to-sql), Kaggle, 2020
 * [Introduction to Big Data](https://coursera.org/share/3d8009bf8fdc31666c79c74574fb1405), Coursera, 2020
