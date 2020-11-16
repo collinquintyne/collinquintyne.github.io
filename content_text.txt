@@ -1,4 +1,41 @@
 ---
+layout: home
+title: Collin Joseph
+---
+
+## About Me
+I am a tech professional currently seeking software development, machine learning and data science related roles.
+
+In 2019-2020, I applied my C++, Python and machine learning knowledge to client-specific projects as part of the production team at [wrnch AI](https://wrnch.ai/). In 2017-2019,I obtained my master's degree in electrical engineering at McGill University. My master's thesis research was focused on machine learning algorithm development, signal processing and statistical analysis for breast cancer screening using radio waves. In 2012-2017, I completed my undergraduate degree in electrical engineering at the University of Waterloo, where I graduated with distinction. During my undergraduate degree, a co-op program, I had the opportunity to gain valuable industry experience at ON Semiconductor as a signal processing firmware development intern. I also worked at the University of Waterloo as a teaching assistant and as a research assistant.
+
+
+## Work Experience
+* Developer, wrnch AI, Nov 2019 - Mar 2020
+* Graduate Student Researcher, McGill University, Sep 2017 - Oct 2019
+* Signal Processing Algorithm Developer, ON Semiconductor, Sep 2016 - Dec 2016
+* Signal Processing Algorithm Developer, ON Semiconductor, Jan 2016 - Apr 2016
+* Signal Processing Algorithm Developer, ON Semiconductor, May 2015 - Aug 2015
+* Teaching Assistant, University of Waterloo, Sep 2014 - Dec 2014
+* Research Assistant, University of Waterloo, May 2014 - Aug 2014
+
+For additional information please see [my resume](/files/CollinAJosephResume.pdf).
+
+## Education
+* MEng. Electrical Engineering, McGill University, 2019
+* BASc. Electrical Engineering, University of Waterloo, 2017
+
+## Additional Courses and Certifications
+* [Pandas](https://www.kaggle.com/learn/certification/collinquintyne/pandas), Kaggle, 2020
+* [Introduction to SQL](https://www.kaggle.com/learn/certification/collinquintyne/intro-to-sql), Kaggle, 2020
+* [Introduction to Big Data](https://coursera.org/share/3d8009bf8fdc31666c79c74574fb1405), Coursera, 2020
+* [Big Data Modeling and Management](https://coursera.org/share/4ed0fe2df769d1bdeeff884304b1eef6), Coursera, 2020
+* [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/N2DNAJY4YJLC), Coursera, 2019
+
+## Past Projects
+* [Machine learning for breast cancer detection using RF radar](/projects/meng_project.md) (Master's thesis research).
+* [American sign language gesture recognition using surface electromyography](https://youtu.be/j9J6hfbg9Yc).
+
+---
 title: "Improving Machine Learning Algorithms for RF Breast Cancer Detection"
 excerpt: "Investigating new feature extraction methods and improving training efficiency for ensemble cost-sensitive SVM algorithm for breast cancer detection using RF radar."
 ---
@@ -24,7 +61,7 @@ The figure below shows receiver operating characteristic curves for the classifi
 *Receiver operating characteristic (ROC) curves for feature extraction investigation. The proposed feature extraction methods yield better results than PCA.*
 <br><br>
 
-# Improving Ensemble Training Efficiency    
+# Improving Ensemble Training Efficiency
 The ensemble algorithm involved performing a grid search over a few thousand hyperparameter combinations, for each pair of antennas that has been selected for the analysis (there can be up to 240 antenna pairs used). Once these grid searches have been completed, the best hyperparameter combinations that yielded the best predictive performance are chosen to form the final ensemble model. Consequently, the computational load of training an ensemble classifier is significant. One aspect of my research was to investigate how the computational load of the ensemble training process could be reduced without compromising the model's predictive performance.
 <br><br>
 A wide variety of derivative-free optimization algorithms exist that may be applied to hyperparameter searching in machine learning applications. I chose to use the following algorithms: random search (RS), random walk (RW), simulated annealing (SA), genetic algorithms (GA) and particle swarm optimization (PS). However, the existing implementation considers all hyperparameter configurations from all selected antenna pairs. Therefore, I attempted to use these algorithms in an unconventional way. Instead of searching for the single best hyperparameter configuration, I attempted to use these algorithms to explore the hyperparameter space in an intelligent manner and build a library of high quality models in a more efficient way than the implementation using the grid search. To do this, each algorithm was configured, where possible, to prioritize exploration over exploitation.
